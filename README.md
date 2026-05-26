@@ -74,10 +74,10 @@ earthforward/
 ```
 
 ## Contract ID
-CDNHC477MHYIH3PC3DALMVV3CVFZ5L57BFMPNHARGFHVVAFYYEVZQ6LM
+CDEOS3UTVZHP3SJY3257QFJJLTPBZXPXUUHISLGEVUWK3NMQ7TELAWI5
 
 ## Stellar Link
-https://stellar.expert/explorer/testnet/contract/CDNHC477MHYIH3PC3DALMVV3CVFZ5L57BFMPNHARGFHVVAFYYEVZQ6LM
+https://stellar.expert/explorer/testnet/contract/CDEOS3UTVZHP3SJY3257QFJJLTPBZXPXUUHISLGEVUWK3NMQ7TELAWI5
 
 ## License
 This project is open-source software licensed under the MIT License.
