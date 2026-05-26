@@ -1,4 +1,5 @@
-<img width="1920" height="936" alt="image" src="https://github.com/user-attachments/assets/d0bfad4f-dc3a-4c0a-8f7a-e39ca34c25cf" />
+<img width="1920" height="932" alt="image" src="https://github.com/user-attachments/assets/a67d1f4f-b8a4-4e36-b9e8-e63e980ff2d8" />
+
 
 # EarthForward
 A simple fundraising app where charities launch environmental projects and donors fund them directly on Stellar.
