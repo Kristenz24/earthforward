@@ -1,3 +1,5 @@
+<img width="1920" height="935" alt="image" src="https://github.com/user-attachments/assets/0ff460c9-8ace-423e-8c45-d23c6b1020ef" />
+
 # EarthForward
 A simple fundraising app where charities launch environmental projects and donors fund them directly on Stellar.
 
@@ -70,8 +72,11 @@ earthforward/
 └── README.md
 ```
 
-## Contract id
+## Contract ID
 CDNHC477MHYIH3PC3DALMVV3CVFZ5L57BFMPNHARGFHVVAFYYEVZQ6LM
+
+## Stellar Link
+https://stellar.expert/explorer/testnet/contract/CDEOS3UTVZHP3SJY3257QFJJLTPBZXPXUUHISLGEVUWK3NMQ7TELAWI5
 
 ## License
 This project is open-source software licensed under the MIT License.
